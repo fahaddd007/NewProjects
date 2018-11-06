@@ -8,7 +8,7 @@ if($q == "a" || $q == "A"  || $q == "e" ||$q == "E" || $q == "i" ||$q == "I"|| $
 	echo "<h1>Correct ans</h1>";
 	
 
-
+djsadisafsdfjrejgtfjisfjpsadofjiorwetiwes
 
 
 ?>
